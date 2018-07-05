@@ -13,7 +13,7 @@ public class Main {
 		//practice2.setName("noname");
 		System.out.println(practice2.getName());
 		
-		Practice practice3=new Practice("Park");
+		Practice practice3=new Practice("Park ");
 		//practice2.setName("noname");
 		System.out.println(practice3.getName());
 		
