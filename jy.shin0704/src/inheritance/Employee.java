@@ -37,7 +37,7 @@ public class Employee {
 //값을 확인하기 쉽게 하기 위한 메소드
 	@Override
 	public String toString() {
-		return "Employee [num=" + num + ", name=" + name + "]";
+		return "Employee [num=" + num + ", name= " + name + "]";
 	}
 
 	
