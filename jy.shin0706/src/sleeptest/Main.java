@@ -1,4 +1,4 @@
-package jy.shin0706;
+package sleeptest;
 
 public class Main {
 
@@ -7,7 +7,7 @@ public class Main {
 		System.exit(1);
 		//Runtime.getRuntime().exit(10);
 		System.err.println("이 문장은 실행 안됨");
-		
+
 	}
 
 }
