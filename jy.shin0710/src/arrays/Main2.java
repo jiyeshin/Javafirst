@@ -45,7 +45,7 @@ public class Main2 {
 		
 		//배열의 데이터를 정렬
 		//기본적으로 정렬을 하려면 각 데이터의 크기를 비교할 수 있어야 함
-		//자바에서 크기 비료를 하는 메소드는 comparable인터페이스의 compare메소드임.
+		//자바에서 크기 비교를 하는 메소드는 comparable인터페이스의 compare메소드임.
 		//직접 만든 클래스의 경우는 클래스에 comparable인터페이스를 implements하던가,
 		//comparator인터페이스를 implements한 인스턴스를 같이 대입해야 함.
 		Arrays.sort(books);
