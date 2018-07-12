@@ -1,7 +1,7 @@
 package arrays;
 
 public class Book implements Comparable {
-	// 저장하고자 하는 항목
+	// 저장하고자 하는   항목
 	private String title;
 	private String author;
 	private String pubdate;
